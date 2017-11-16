@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.myblog.app/"/>
-  <updated>2017-11-15T02:17:34.488Z</updated>
+  <updated>2017-11-15T02:10:59.921Z</updated>
   <id>http://www.myblog.app/</id>
   
   <author>
@@ -15,34 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>my-blog-first-post</title>
-    <link href="http://www.myblog.app/2017/11/15/my-blog-first-post-1/"/>
-    <id>http://www.myblog.app/2017/11/15/my-blog-first-post-1/</id>
-    <published>2017-11-15T02:17:34.000Z</published>
-    <updated>2017-11-15T02:17:34.488Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>my-blog-first-post</title>
-    <link href="http://www.myblog.app/2017/11/15/my-blog-first-post/"/>
-    <id>http://www.myblog.app/2017/11/15/my-blog-first-post/</id>
-    <published>2017-11-15T02:14:27.000Z</published>
-    <updated>2017-11-15T02:14:27.631Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>post</title>
